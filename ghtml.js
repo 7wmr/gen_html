@@ -1,4 +1,4 @@
-var htm = function(e) {
+var ghtml = function(e) {
     attr = '';
     if (typeof e.attr) {
         a = [];
